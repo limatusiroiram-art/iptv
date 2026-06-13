@@ -31,8 +31,8 @@ https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 #EXTINF:-1 tvg-id="JesusTV.gt@SD",Canal 98 Jesús TV (720p)
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
-#EXTINF:-1 tvg-id="Canal100Chinique.gt@SD",Canal 100 Chinique (480p)
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-id="Canal100Chinique.gt@SD",Canal 100 Chinique (1080p)
+https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIglesiaLuzyVerdad.gt@SD",Canal Iglesia Luz y Verdad (1080p)
 https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPeniel.gt@SD",Canal Peniel (720p) [Not 24/7]
