@@ -137,3 +137,5 @@ https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="SilTv.gt@SD",Sil TV (720p)
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+#EXTINF:-1 tvg-id="Worldtvguatemala.gt@SD",World Tv Guatemala (720p)
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
