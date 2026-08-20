@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD",Amigos TV Chiquimula (480p)
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="BDTelevision.gt@SD",BD Televisión (720p)
-https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3.gt@SD",Canal 3 (720p)
 https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD",Canal 6 Panadish (720p)
@@ -17,14 +15,12 @@ https://live.canal27.tv:3633/live/canal27live.m3u8
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="Canal100Chinique.gt@SD",Canal 100 Chinique (1080p)
 https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalIglesiaLuzyVerdad.gt@SD",Canal Iglesia Luz y Verdad (1080p)
-https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt@SD",Canal TV Radio Maya TGBA (480p)
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
 #EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt@SD",Canal TV Radio Maya TGBA (480p)
 https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalVisof.gt@SD",Canal Visof (720p)
-https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
+#EXTINF:-1 tvg-id="Worldtvguatemala.gt@SD",World Tv Guatemala (720p)
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectadosconDios.gt@SD",Conectados con Dios
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="CristoTV.gt@SD",Cristo TV (480p)
@@ -33,12 +29,6 @@ https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresionTV.gt@SD",Expresión TV (1080p)
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
-#EXTINF:-1 tvg-id="FeViviente.gt@SD",Fe Viviente (480p)
-https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
-#EXTINF:-1 tvg-id="FranchsTV.gt@SD",Franchs TV (720p)
-https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
-#EXTINF:-1 tvg-id="GardeniasTV.gt@SD",Gardenias TV (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt@SD",Guatevision (720p)
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt@SD",Guatevision (576p)
@@ -84,7 +74,6 @@ https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 http://190.61.90.17:40000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt@SD",SIL TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt@SD",Telecosta (720p)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
